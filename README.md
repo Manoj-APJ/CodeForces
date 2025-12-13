@@ -2,29 +2,23 @@
 
 Tracking my daily problem-solving consistency and competitive programming growth on Codeforces.
 
----
-
 ## 🔥 Daily Problem-Solving Log (Streak Tracker)
 
 | Date | Problems Solved | Difficulty | Notes |
 |------|-----------------|------------|-------|
-| DD/MM/YYYY | 3 | 800–1000 | Implementation practice |
-| DD/MM/YYYY | 2 | 900–1100 | Learned new logic |
-| DD/MM/YYYY | 1 | 1400 | Tough but rewarding |
+| 13/12/2025 | 1 | 900-1000 | Implementation practice |
+| DD/MM/YYYY | 2 | 900–1100 | add notes |
 
 ✅ This table is updated daily to maintain my streak.
-
----
 
 ## 🔵 Codeforces Profile Overview
 
 | Metric | Value |
 |------|------|
-| Current Rating | ____ |
-| Max Rating | ____ |
-| Current Streak | ____ days |
-| Longest Streak | ____ days |
-| Total Problems Solved | ____ |
+| Current Rating | 1094 |
+| Current Streak | 1 days |
+| Longest Streak | 7 days |
+| Total Problems Solved | 119 |
 
 ---
 
@@ -33,42 +27,35 @@ Tracking my daily problem-solving consistency and competitive programming growth
 | Contest | Date | Rank | Rating Change |
 |--------|------|------|---------------|
 | Codeforces Round #____ | DD/MM/YYYY | ____ | + / - ___ |
-| Codeforces Round #____ | DD/MM/YYYY | ____ | + / - ___ |
-| Codeforces Round #____ | DD/MM/YYYY | ____ | + / - ___ |
 
 ---
 
 ## 📊 Progress Summary
 
-- Total Problems Solved: ____
-- Average Problems / Day: ____
-- Active Days: ____
-- Missed Days: ____
+- Total Problems Solved: 1
+- Average Problems / Day: 1
+- Active Days: 1
+- Missed Days: 0
 
 ---
 
 ## 🎯 Target & Achievement Rate
 
 ### 🎯 Current Target
-- Solve ___ problems  
-- Reach Codeforces rating ___  
+- Solve 200 problems  
+- Reach Codeforces rating 1600  
 
 ### 📈 Achievement Rate
-Problems Completed: ____ / ____
-Completion Rate: ___%
-
-makefile
-Copy code
+Problems Completed: 1 / 200
+Completion Rate: 0.5%
 
 Progress:
-[███████-------] ___%
+[--------------] ___%
 
 
 ## 🔗 Codeforces Profile
 
 https://codeforces.com/profile/22h51a05a4
-
----
 
 ## 🚀 Commitment
 
